@@ -6,9 +6,9 @@
 |--------------------------------------------------------------------------
 |
 */
-    $host = "localhost";
+    $host = "95.111.254.89";
     $user = "root";
-    $pass = "";
+    $pass = "tk2lvcdzsti4gj497zu1h5ujeiz9k38l";
     $db   = "crud_generator";
 
     $connectdb = new PDO("mysql:host=$host;dbname=$db", $user, $pass);
