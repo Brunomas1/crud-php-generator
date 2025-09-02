@@ -27,7 +27,7 @@
 |
 */
     global $baseURL;
-    $baseURL  = "http://localhost/testing/crud-php-generator/";
+    $baseURL  = "http://bmont3d-crugenerator-ltsb4g-db8828-95-111-254-89.traefik.me/";
 
 /*
 |--------------------------------------------------------------------------
